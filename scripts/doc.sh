@@ -1,0 +1,1 @@
+javadoc  --module-path "$PATH_TO_FX" --add-modules javafx.controls,javafx.fxml -javafx -version -d "../docs" "../src/main/java/hw4/Epidemic.java" "../src/main/java/hw4/Graph.java" "../src/main/java/hw4/MyNode.java" "../src/main/java/hw4/NodeState.java"
